@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shining-Skyy](https://github.com/Shining-Skyy)
 
-- 💬 Ask me about **C# - Asp.Net**
+- 💬 Ask me about **C# - Asp.Net Core**
 
 - 📫 How to reach me **sadegh.life.code01@gmail.com**
   
